@@ -4,4 +4,4 @@ The idea is to model RPG games and have the ability to create new characters wit
 
 Our backend database will contain each user’s character information and details, and the frontend will be the place that the user can access CRUD functionalities.
 
-[MVP.pdf](https://github.com/cxjsparks/ICBINP-Project-Info/files/8846464/MVP.pdf)
+
